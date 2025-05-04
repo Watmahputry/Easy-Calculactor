@@ -145,7 +145,7 @@ Terbuka untuk pull request dan saran desain!
 
 
 ## Link Repository
-> [Link Github kamu di sini]
+> [https://github.com/Watmahputry/Easy-Calculactor.git]
 
 ## Link Trello Board (SCRUM Management)
 > https://wulanoktaviawahyu-1745597155870.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiYmZmM2VhZjFlZjFjNDhlZGJiNDVkN2I4ZTdlMDEzYjkiLCJwIjoiaiJ9]
